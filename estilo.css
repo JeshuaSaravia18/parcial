@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    background-color: #F4F6F7 ;
+}
+html{ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   
+    
+}
+header{
+    background-color: #85C1E9;
+    color: #1B4F72 ;
+    padding: 0.5rem 7rem;
+}
+header h1{
+    font-size: 8rem;
+    text-align: center;
+}
+
+.content{
+    width: 400px;
+    margin:  auto;
+}
+section article h2, section article p{
+   margin: 1rem;
+}
+section article:hover{
+    box-shadow: 0 0.1rem 0.4rem #575757;
+}
+footer{
+    background-color: #85C1E9;
+    padding: 3rem;
+    color: #2874A6;
+}
+footer section{
+    float: right;
+}
+footer p{
+    margin: 0;
+    color: #2874A6;
+}
